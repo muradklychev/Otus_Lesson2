@@ -1,4 +1,4 @@
-package main.dto.Service;
+package service;
 
 public enum Command {
     ADD("add"),

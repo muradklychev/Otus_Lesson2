@@ -1,8 +1,8 @@
 package main;
 
-import main.dto.Service.Command;
-import main.dto.repository.AnimalRepository;
-import main.dto.*;
+import service.Command;
+import repository.AnimalRepository;
+import dto.*;
 
 import java.util.List;
 import java.util.Scanner;

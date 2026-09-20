@@ -1,4 +1,4 @@
-package main.dto;
+package dto;
 
 public abstract class Animal {
     private int id;

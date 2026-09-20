@@ -1,6 +1,6 @@
-package main.dto;
+package dto;
 
-import main.dto.Interface.Flying;
+import inteface.Flying;
 
 public class Duck extends Animal implements Flying {
     public Duck() {

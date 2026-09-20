@@ -1,10 +1,10 @@
-package main.dto.repository;
+package repository;
 
-import main.dto.Animal;
-import main.dto.Cat;
-import main.dto.Dog;
-import main.dto.Duck;
-import main.dto.repository.DatabaseConnection;
+import dto.Animal;
+import dto.Cat;
+import dto.Dog;
+import dto.Duck;
+import repository.DatabaseConnection;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

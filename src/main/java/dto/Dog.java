@@ -1,4 +1,4 @@
-package main.dto;
+package dto;
 
 public class Dog extends Animal {
     public Dog() {
